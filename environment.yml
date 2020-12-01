@@ -6,5 +6,8 @@ dependencies:
     - numpy==1.18.1
     - pandas==0.25.3
     - xlrd
+    - scipy
+    - seaborn
+    - sklearn
 
 

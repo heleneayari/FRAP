@@ -8,6 +8,6 @@ dependencies:
     - xlrd
     - scipy
     - seaborn
-    - sklearn
+    - scikit-learn
 
 
